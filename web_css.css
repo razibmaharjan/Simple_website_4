@@ -1,0 +1,158 @@
+@import url("https://fonts.googleapis.com/css2?family=Secular+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Secular+One&family=Shadows+Into+Light&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.topbar_1_p {
+  background-color: #f6f7f7;
+  box-sizing: border-box;
+  padding: 20px 0px 0px 250px;
+}
+.topbar_1 {
+  background-color: #f6f7f7;
+  box-sizing: border-box;
+  text-align: right;
+}
+.topbar_1 li {
+  list-style: none;
+  display: inline-block;
+}
+.topbar_1 a {
+  text-decoration: none;
+  position: relative;
+  bottom: 20px;
+  right: 200px;
+  padding-right: 10px;
+}
+.fonts_topbar {
+  font-family: "Secular One", sans-serif;
+  color: #cdcccd;
+}
+.middle_topbar {
+  background-color: #fefeff;
+}
+.company_logo {
+  height: 100px;
+  width: 100px;
+  padding: 20px 0px 0px 250px;
+}
+#company_head {
+  position: relative;
+  bottom: 110px;
+  padding: 20px 0px 0px 370px;
+  font-family: "Secular One", sans-serif;
+}
+#justice {
+  color: #a9741e;
+}
+#company_slogan {
+  position: relative;
+  bottom: 130px;
+  padding: 20px 0px 0px 370px;
+  font-family: "Shadows Into Light", cursive;
+}
+.phone {
+  padding: 20px 0px 0px 750px;
+  position: relative;
+  bottom: 200px;
+}
+.a_phone {
+  padding: 20px 0px 0px 800px;
+  position: relative;
+  bottom: 240px;
+  font-family: "Secular One", sans-serif;
+}
+.p_phone {
+  padding: 20px 0px 0px 800px;
+  position: relative;
+  bottom: 260px;
+  font-family: "Secular One", sans-serif;
+  font-size: 10px;
+}
+.location {
+  padding: 20px 0px 0px 1000px;
+  position: relative;
+  bottom: 315px;
+}
+.a_location {
+  padding: 20px 0px 0px 1050px;
+  position: relative;
+  bottom: 350px;
+  font-family: "Secular One", sans-serif;
+}
+.p_location {
+  padding: 20px 0px 0px 1050px;
+  position: relative;
+  bottom: 370px;
+  font-family: "Secular One", sans-serif;
+  font-size: 10px;
+}
+.menu-nav {
+  background-color: #3f3e3f;
+  box-sizing: border-box;
+  text-align: center;
+  position: relative;
+  bottom: 340px;
+}
+.menu-nav li {
+  list-style: none;
+  display: inline-block;
+  padding: 30px;
+}
+.menu-nav a {
+  text-decoration: none;
+  position: relative;
+  color: #9e9e9f;
+}
+.menu-nav a:hover {
+  background-color: #b5740b;
+  padding: 30px;
+  border-radius: 3px;
+}
+
+#requestcode {
+  background-color: #b5740b;
+  padding: 30px;
+  border-radius: 3px;
+}
+#requestcode a:not(:hover) {
+  background-color: #b5740b;
+}
+.background_img {
+  position: relative;
+  bottom: 340px;
+  width: 1349px;
+  height: 800px;
+}
+#welcome {
+  font-family: "Secular One", sans-serif;
+  position: relative;
+  bottom: 340px;
+  text-align: center;
+}
+#welcome_p {
+  font-family: "Secular One", sans-serif;
+  position: relative;
+  bottom: 340px;
+  text-align: center;
+}
+#lawyer_1 {
+  position: relative;
+  bottom: 280px;
+  width: 500px;
+}
+#lawyer_2 {
+  position: relative;
+  bottom: 280px;
+  left: 340px;
+  width: 500px;
+  height: 330px;
+}
+#lawyer_3 {
+  position: relative;
+  bottom: 280px;
+  left: 420px;
+  width: 500px;
+}
